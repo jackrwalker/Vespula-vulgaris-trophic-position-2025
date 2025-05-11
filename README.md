@@ -5,6 +5,7 @@ Data associated with manuscript titled: "Trophic position of common wasps (Vespu
 
 site: field site ID
 sample: sample number
+samplecat: indicates the sample size for each site, whereby a = 1-2 samples, b = 3-4 samples, c = 5-6 samples. used for producing Figure 2.
 urban: urbanisation measured as % impervious surface cover
 city: the city that site was located in
 daterun: date that the sample was analysed 
